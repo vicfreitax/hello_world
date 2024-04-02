@@ -10,7 +10,7 @@ public class HelloWorldController {
 	
 	@GetMapping
 	public String helloWorld() {
-		return "Hello World!!!";
+		return "Meus objetivos essa semana são: colocar minhas atividades em dia e conseguir finalizar as alterações no meu LinkedIn.";
 	}
 
 }
